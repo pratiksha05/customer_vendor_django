@@ -1,0 +1,52 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="serial;" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E722" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="User" />
+          <option value="django_elasticsearch_dsl.DocType" />
+          <option value="elastic_search.elasticsearchapp.documents.Document" />
+          <option value="django_elasticsearch_dsl.Document" />
+          <option value="elastic_search.django_social_app.urls.elasticsearchapp" />
+          <option value="apps.user.urls.views" />
+          <option value="apps.ubase.lookup.views.permissions" />
+          <option value="apps.ubase.user.views.get_user_role" />
+          <option value="apps.user_profile.views.UserSubscriptionFeature" />
+          <option value="apps.user_profile.urls.SubscriptionFeatureViewSet" />
+          <option value="apps.ubase.common.filters.Role" />
+          <option value="apps.ubase.user.views.status" />
+          <option value="apps.ubase.notification.serializer.PushNotification" />
+          <option value="apps.ubase.user.serializers.UserSerializers.*" />
+          <option value="apps.transaction.views.Transaction" />
+          <option value="apps.masters.views.CheckoutMasterSerializer" />
+          <option value="apps.user_lead.views.UserLeadSerializer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

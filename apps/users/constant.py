@@ -1,0 +1,6 @@
+ROLES = (
+    ("ADMIN", "ADMIN"),
+    ("NUTRITIONIST", "NUTRITIONIST"),
+    ("STORE MANAGER", "STORE MANAGER"),
+    ("CALLER", "CALLER"),
+)
